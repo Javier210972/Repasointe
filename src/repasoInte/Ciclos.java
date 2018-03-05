@@ -69,7 +69,12 @@ public class Ciclos {
 //            System.out.println(i);
 //
 //        }
-
+            
+//CICLOS DECRECIENTE
+//System.out.println("decreciente ");
+//        for (int j = texto.length()-1; j >= 0; j--) {
+//         letra=texto.substring(j,j+1);
+//            System.out.println(letra);
                 }
             
             }}
