@@ -34,7 +34,7 @@ XOR	^	A ^ B	verdadero cuando A y B son diferentes
         , es decir, convertir un número almacenado como String a un dato del tipo int
         , double u otro según se requiera*/
     
-        
+         // Integer.parseInt(Dentro lo que uno quiere que se convierta)
     }
     
 }
