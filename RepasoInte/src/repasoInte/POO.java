@@ -21,20 +21,25 @@ public class POO {
 //      Scanner ingreso= new Scanner(System.in);
                                                   //ventaja de poo puede ingresarse mas de uno
        //        Tv nuevaTvL= new Tv();
-//        la public class de la clase normal tambien se debe llamar Tv
+//        la public class de la clasTv nuevaTvL= new Tv();e normal tambien se debe llamar Tv
 
        //set y get
 //       se crean en la clase normal
-
-//       y se llaman en la Main asi
-//               System.out.println("Ingrese 2 marc");
-//       --> nuevaTvL.setMarca(ingreso.next());
-//        --> System.out.println("la 2 marca es: "+nuevaTvL.getMarca());
+       
         
+//        Pedir nombre en la clase Main
+//            nuevaTvL.setMarca(ingreso.next());
+//        -NuevaTvl: el nombre de la instacnia ej: Tv nuevaTvL= new Tv();
+//        -Siendo setMarca el metodo que guardara la informacion en la variable
+//        -ingreso el nombre del Scanner
+
+//Mostrar en la clase main
+//   System.out.println("la 2 marca es: "+nuevaTvL.getMarca());            
         
 //Mostrar todo de una
 // System.out.println(nuevaTvL.toString());
-//HERENCIA
+
+        //HERENCIA
  //extends se crea en el metodo constructor principal + el nombre de la otra clase con los atributos que quiere heredar(o compartir)
 
         //Polimorfismo
@@ -48,6 +53,9 @@ public class POO {
         
         //Encapsulamiento
         //Volver algunos atributos private para que el cliente no vea todo lo que hay dentro
+        
+        //Abstraccion
+        //EJ: Usar solo una clase para los nombres
     }
     
 }
