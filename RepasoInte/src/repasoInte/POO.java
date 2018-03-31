@@ -34,7 +34,20 @@ public class POO {
         
 //Mostrar todo de una
 // System.out.println(nuevaTvL.toString());
+//HERENCIA
+ //extends se crea en el metodo constructor principal + el nombre de la otra clase con los atributos que quiere heredar(o compartir)
 
+        //Polimorfismo
+   //   A través de esta característica es posible definir varios métodos o comportamientos de un objeto bajo un mismo nombre
+     //   @Override
+//    public double getSueldoliquido() {
+//      this.Bonificacion=this.SueldoBase*0.15;
+//      this.Sueldoliquido=this.SueldoBase+this.Bonificacion;
+//      
+//        return Sueldoliquido; <---todo esto va en cada una de las clases pero cambiadno el 0.15
+        
+        //Encapsulamiento
+        //Volver algunos atributos private para que el cliente no vea todo lo que hay dentro
     }
     
 }
